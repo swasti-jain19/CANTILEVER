@@ -53,9 +53,4 @@ This Flask application allows users to upload an image, perform Optical Characte
     -   View the extracted text alongside the uploaded image.
     -   Use the back button to return to the home page.
 
-## Contributors
-
--   G SUDARSHAN SASTRY
-
-Feel free to explore, contribute, and enhance this OCR Flask application!
 
